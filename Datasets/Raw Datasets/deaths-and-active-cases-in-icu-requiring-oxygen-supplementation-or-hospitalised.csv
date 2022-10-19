@@ -1,0 +1,434 @@
+day_of_as_of_date,age_groups,clinical_status,count_of_case
+2021-09-23,70+ years old,Deceased,2
+2021-09-24,70+ years old,Deceased,5
+2021-09-25,70+ years old,Deceased,2
+2021-09-27,70+ years old,Deceased,2
+2021-09-28,70+ years old,Deceased,4
+2021-09-29,70+ years old,Deceased,8
+2021-09-30,70+ years old,Deceased,6
+2021-10-01,70+ years old,Deceased,4
+2021-10-02,70+ years old,Deceased,3
+2021-10-03,70+ years old,Deceased,4
+2021-10-04,70+ years old,Deceased,8
+2021-10-05,70+ years old,Deceased,2
+2021-10-06,70+ years old,Deceased,5
+2021-10-07,70+ years old,Deceased,2
+2021-10-08,70+ years old,Deceased,5
+2021-10-09,70+ years old,Deceased,10
+2021-10-10,70+ years old,Deceased,8
+2021-10-11,70+ years old,Deceased,9
+2021-10-12,70+ years old,Deceased,10
+2021-10-13,70+ years old,Deceased,8
+2021-10-14,70+ years old,Deceased,11
+2021-10-15,70+ years old,Deceased,5
+2021-10-16,70+ years old,Deceased,7
+2021-10-17,70+ years old,Deceased,3
+2021-10-18,70+ years old,Deceased,8
+2021-10-19,70+ years old,Deceased,8
+2021-10-20,70+ years old,Deceased,3
+2021-09-23,70+ years old,In Intensive Care Unit,13
+2021-09-24,70+ years old,In Intensive Care Unit,12
+2021-09-25,70+ years old,In Intensive Care Unit,15
+2021-09-26,70+ years old,In Intensive Care Unit,16
+2021-09-27,70+ years old,In Intensive Care Unit,17
+2021-09-28,70+ years old,In Intensive Care Unit,17
+2021-09-29,70+ years old,In Intensive Care Unit,19
+2021-09-30,70+ years old,In Intensive Care Unit,20
+2021-10-01,70+ years old,In Intensive Care Unit,18
+2021-10-02,70+ years old,In Intensive Care Unit,19
+2021-10-03,70+ years old,In Intensive Care Unit,20
+2021-10-04,70+ years old,In Intensive Care Unit,21
+2021-10-05,70+ years old,In Intensive Care Unit,20
+2021-10-06,70+ years old,In Intensive Care Unit,23
+2021-10-07,70+ years old,In Intensive Care Unit,22
+2021-10-08,70+ years old,In Intensive Care Unit,22
+2021-10-09,70+ years old,In Intensive Care Unit,23
+2021-10-10,70+ years old,In Intensive Care Unit,22
+2021-10-11,70+ years old,In Intensive Care Unit,20
+2021-10-12,70+ years old,In Intensive Care Unit,19
+2021-10-13,70+ years old,In Intensive Care Unit,22
+2021-10-14,70+ years old,In Intensive Care Unit,20
+2021-10-15,70+ years old,In Intensive Care Unit,23
+2021-10-16,70+ years old,In Intensive Care Unit,31
+2021-10-17,70+ years old,In Intensive Care Unit,32
+2021-10-18,70+ years old,In Intensive Care Unit,31
+2021-10-19,70+ years old,In Intensive Care Unit,32
+2021-10-20,70+ years old,In Intensive Care Unit,35
+2021-09-23,70+ years old,Requires Oxygen Supplementation,91
+2021-09-24,70+ years old,Requires Oxygen Supplementation,91
+2021-09-25,70+ years old,Requires Oxygen Supplementation,91
+2021-09-26,70+ years old,Requires Oxygen Supplementation,95
+2021-09-27,70+ years old,Requires Oxygen Supplementation,108
+2021-09-28,70+ years old,Requires Oxygen Supplementation,113
+2021-09-29,70+ years old,Requires Oxygen Supplementation,108
+2021-09-30,70+ years old,Requires Oxygen Supplementation,110
+2021-10-01,70+ years old,Requires Oxygen Supplementation,120
+2021-10-02,70+ years old,Requires Oxygen Supplementation,139
+2021-10-03,70+ years old,Requires Oxygen Supplementation,143
+2021-10-04,70+ years old,Requires Oxygen Supplementation,129
+2021-10-05,70+ years old,Requires Oxygen Supplementation,142
+2021-10-06,70+ years old,Requires Oxygen Supplementation,140
+2021-10-07,70+ years old,Requires Oxygen Supplementation,171
+2021-10-08,70+ years old,Requires Oxygen Supplementation,186
+2021-10-09,70+ years old,Requires Oxygen Supplementation,182
+2021-10-10,70+ years old,Requires Oxygen Supplementation,176
+2021-10-11,70+ years old,Requires Oxygen Supplementation,187
+2021-10-12,70+ years old,Requires Oxygen Supplementation,176
+2021-10-13,70+ years old,Requires Oxygen Supplementation,185
+2021-10-14,70+ years old,Requires Oxygen Supplementation,193
+2021-10-15,70+ years old,Requires Oxygen Supplementation,197
+2021-10-16,70+ years old,Requires Oxygen Supplementation,187
+2021-10-17,70+ years old,Requires Oxygen Supplementation,187
+2021-10-18,70+ years old,Requires Oxygen Supplementation,188
+2021-10-19,70+ years old,Requires Oxygen Supplementation,192
+2021-10-20,70+ years old,Requires Oxygen Supplementation,193
+2021-09-23,70+ years old,Hospitalised,403
+2021-09-24,70+ years old,Hospitalised,399
+2021-09-25,70+ years old,Hospitalised,404
+2021-09-26,70+ years old,Hospitalised,436
+2021-09-27,70+ years old,Hospitalised,458
+2021-09-28,70+ years old,Hospitalised,485
+2021-09-29,70+ years old,Hospitalised,476
+2021-09-30,70+ years old,Hospitalised,481
+2021-10-01,70+ years old,Hospitalised,487
+2021-10-02,70+ years old,Hospitalised,519
+2021-10-03,70+ years old,Hospitalised,449
+2021-10-04,70+ years old,Hospitalised,471
+2021-10-05,70+ years old,Hospitalised,519
+2021-10-06,70+ years old,Hospitalised,527
+2021-10-07,70+ years old,Hospitalised,536
+2021-10-08,70+ years old,Hospitalised,551
+2021-10-09,70+ years old,Hospitalised,574
+2021-10-10,70+ years old,Hospitalised,602
+2021-10-11,70+ years old,Hospitalised,615
+2021-10-12,70+ years old,Hospitalised,613
+2021-10-13,70+ years old,Hospitalised,576
+2021-10-14,70+ years old,Hospitalised,566
+2021-10-15,70+ years old,Hospitalised,587
+2021-10-16,70+ years old,Hospitalised,533
+2021-10-17,70+ years old,Hospitalised,586
+2021-10-18,70+ years old,Hospitalised,600
+2021-10-19,70+ years old,Hospitalised,600
+2021-10-20,70+ years old,Hospitalised,604
+2021-09-24,61 - 70 years old,Deceased,1
+2021-09-25,61 - 70 years old,Deceased,1
+2021-09-27,61 - 70 years old,Deceased,1
+2021-09-29,61 - 70 years old,Deceased,1
+2021-10-01,61 - 70 years old,Deceased,1
+2021-10-02,61 - 70 years old,Deceased,3
+2021-10-04,61 - 70 years old,Deceased,2
+2021-10-05,61 - 70 years old,Deceased,1
+2021-10-08,61 - 70 years old,Deceased,3
+2021-10-09,61 - 70 years old,Deceased,2
+2021-10-10,61 - 70 years old,Deceased,1
+2021-10-11,61 - 70 years old,Deceased,2
+2021-10-13,61 - 70 years old,Deceased,1
+2021-10-14,61 - 70 years old,Deceased,1
+2021-10-15,61 - 70 years old,Deceased,1
+2021-10-16,61 - 70 years old,Deceased,1
+2021-10-17,61 - 70 years old,Deceased,2
+2021-10-18,61 - 70 years old,Deceased,1
+2021-10-19,61 - 70 years old,Deceased,5
+2021-10-20,61 - 70 years old,Deceased,1
+2021-09-23,61 - 70 years old,In Intensive Care Unit,6
+2021-09-24,61 - 70 years old,In Intensive Care Unit,8
+2021-09-25,61 - 70 years old,In Intensive Care Unit,7
+2021-09-26,61 - 70 years old,In Intensive Care Unit,8
+2021-09-27,61 - 70 years old,In Intensive Care Unit,4
+2021-09-28,61 - 70 years old,In Intensive Care Unit,7
+2021-09-29,61 - 70 years old,In Intensive Care Unit,9
+2021-09-30,61 - 70 years old,In Intensive Care Unit,8
+2021-10-01,61 - 70 years old,In Intensive Care Unit,8
+2021-10-02,61 - 70 years old,In Intensive Care Unit,8
+2021-10-03,61 - 70 years old,In Intensive Care Unit,10
+2021-10-04,61 - 70 years old,In Intensive Care Unit,10
+2021-10-05,61 - 70 years old,In Intensive Care Unit,11
+2021-10-06,61 - 70 years old,In Intensive Care Unit,10
+2021-10-07,61 - 70 years old,In Intensive Care Unit,12
+2021-10-08,61 - 70 years old,In Intensive Care Unit,12
+2021-10-09,61 - 70 years old,In Intensive Care Unit,10
+2021-10-10,61 - 70 years old,In Intensive Care Unit,11
+2021-10-11,61 - 70 years old,In Intensive Care Unit,11
+2021-10-12,61 - 70 years old,In Intensive Care Unit,13
+2021-10-13,61 - 70 years old,In Intensive Care Unit,14
+2021-10-14,61 - 70 years old,In Intensive Care Unit,16
+2021-10-15,61 - 70 years old,In Intensive Care Unit,14
+2021-10-16,61 - 70 years old,In Intensive Care Unit,19
+2021-10-17,61 - 70 years old,In Intensive Care Unit,21
+2021-10-18,61 - 70 years old,In Intensive Care Unit,21
+2021-10-19,61 - 70 years old,In Intensive Care Unit,22
+2021-10-20,61 - 70 years old,In Intensive Care Unit,17
+2021-09-23,61 - 70 years old,Requires Oxygen Supplementation,45
+2021-09-24,61 - 70 years old,Requires Oxygen Supplementation,40
+2021-09-25,61 - 70 years old,Requires Oxygen Supplementation,45
+2021-09-26,61 - 70 years old,Requires Oxygen Supplementation,49
+2021-09-27,61 - 70 years old,Requires Oxygen Supplementation,56
+2021-09-28,61 - 70 years old,Requires Oxygen Supplementation,64
+2021-09-29,61 - 70 years old,Requires Oxygen Supplementation,56
+2021-09-30,61 - 70 years old,Requires Oxygen Supplementation,59
+2021-10-01,61 - 70 years old,Requires Oxygen Supplementation,68
+2021-10-02,61 - 70 years old,Requires Oxygen Supplementation,67
+2021-10-03,61 - 70 years old,Requires Oxygen Supplementation,69
+2021-10-04,61 - 70 years old,Requires Oxygen Supplementation,61
+2021-10-05,61 - 70 years old,Requires Oxygen Supplementation,62
+2021-10-06,61 - 70 years old,Requires Oxygen Supplementation,66
+2021-10-07,61 - 70 years old,Requires Oxygen Supplementation,76
+2021-10-08,61 - 70 years old,Requires Oxygen Supplementation,74
+2021-10-09,61 - 70 years old,Requires Oxygen Supplementation,72
+2021-10-10,61 - 70 years old,Requires Oxygen Supplementation,66
+2021-10-11,61 - 70 years old,Requires Oxygen Supplementation,72
+2021-10-12,61 - 70 years old,Requires Oxygen Supplementation,66
+2021-10-13,61 - 70 years old,Requires Oxygen Supplementation,62
+2021-10-14,61 - 70 years old,Requires Oxygen Supplementation,61
+2021-10-15,61 - 70 years old,Requires Oxygen Supplementation,66
+2021-10-16,61 - 70 years old,Requires Oxygen Supplementation,68
+2021-10-17,61 - 70 years old,Requires Oxygen Supplementation,75
+2021-10-18,61 - 70 years old,Requires Oxygen Supplementation,81
+2021-10-19,61 - 70 years old,Requires Oxygen Supplementation,75
+2021-10-20,61 - 70 years old,Requires Oxygen Supplementation,74
+2021-09-23,61 - 70 years old,Hospitalised,175
+2021-09-24,61 - 70 years old,Hospitalised,174
+2021-09-25,61 - 70 years old,Hospitalised,176
+2021-09-26,61 - 70 years old,Hospitalised,188
+2021-09-27,61 - 70 years old,Hospitalised,204
+2021-09-28,61 - 70 years old,Hospitalised,199
+2021-09-29,61 - 70 years old,Hospitalised,229
+2021-09-30,61 - 70 years old,Hospitalised,243
+2021-10-01,61 - 70 years old,Hospitalised,232
+2021-10-02,61 - 70 years old,Hospitalised,241
+2021-10-03,61 - 70 years old,Hospitalised,223
+2021-10-04,61 - 70 years old,Hospitalised,230
+2021-10-05,61 - 70 years old,Hospitalised,249
+2021-10-06,61 - 70 years old,Hospitalised,253
+2021-10-07,61 - 70 years old,Hospitalised,242
+2021-10-08,61 - 70 years old,Hospitalised,243
+2021-10-09,61 - 70 years old,Hospitalised,234
+2021-10-10,61 - 70 years old,Hospitalised,247
+2021-10-11,61 - 70 years old,Hospitalised,252
+2021-10-12,61 - 70 years old,Hospitalised,243
+2021-10-13,61 - 70 years old,Hospitalised,228
+2021-10-14,61 - 70 years old,Hospitalised,227
+2021-10-15,61 - 70 years old,Hospitalised,254
+2021-10-16,61 - 70 years old,Hospitalised,214
+2021-10-17,61 - 70 years old,Hospitalised,246
+2021-10-18,61 - 70 years old,Hospitalised,252
+2021-10-19,61 - 70 years old,Hospitalised,268
+2021-10-20,61 - 70 years old,Hospitalised,276
+2021-10-01,40 - 60 years old,Deceased,1
+2021-10-03,40 - 60 years old,Deceased,1
+2021-10-06,40 - 60 years old,Deceased,1
+2021-10-09,40 - 60 years old,Deceased,1
+2021-10-12,40 - 60 years old,Deceased,1
+2021-10-14,40 - 60 years old,Deceased,1
+2021-10-16,40 - 60 years old,Deceased,1
+2021-10-17,40 - 60 years old,Deceased,2
+2021-10-19,40 - 60 years old,Deceased,1
+2021-09-23,40 - 60 years old,In Intensive Care Unit,3
+2021-09-24,40 - 60 years old,In Intensive Care Unit,3
+2021-09-25,40 - 60 years old,In Intensive Care Unit,5
+2021-09-26,40 - 60 years old,In Intensive Care Unit,6
+2021-09-27,40 - 60 years old,In Intensive Care Unit,6
+2021-09-28,40 - 60 years old,In Intensive Care Unit,6
+2021-09-29,40 - 60 years old,In Intensive Care Unit,6
+2021-09-30,40 - 60 years old,In Intensive Care Unit,6
+2021-10-01,40 - 60 years old,In Intensive Care Unit,7
+2021-10-02,40 - 60 years old,In Intensive Care Unit,4
+2021-10-03,40 - 60 years old,In Intensive Care Unit,4
+2021-10-04,40 - 60 years old,In Intensive Care Unit,4
+2021-10-05,40 - 60 years old,In Intensive Care Unit,3
+2021-10-06,40 - 60 years old,In Intensive Care Unit,4
+2021-10-07,40 - 60 years old,In Intensive Care Unit,5
+2021-10-08,40 - 60 years old,In Intensive Care Unit,6
+2021-10-09,40 - 60 years old,In Intensive Care Unit,6
+2021-10-10,40 - 60 years old,In Intensive Care Unit,7
+2021-10-11,40 - 60 years old,In Intensive Care Unit,10
+2021-10-12,40 - 60 years old,In Intensive Care Unit,10
+2021-10-13,40 - 60 years old,In Intensive Care Unit,10
+2021-10-14,40 - 60 years old,In Intensive Care Unit,10
+2021-10-15,40 - 60 years old,In Intensive Care Unit,11
+2021-10-16,40 - 60 years old,In Intensive Care Unit,12
+2021-10-17,40 - 60 years old,In Intensive Care Unit,12
+2021-10-18,40 - 60 years old,In Intensive Care Unit,14
+2021-10-19,40 - 60 years old,In Intensive Care Unit,15
+2021-10-20,40 - 60 years old,In Intensive Care Unit,13
+2021-09-23,40 - 60 years old,Requires Oxygen Supplementation,23
+2021-09-24,40 - 60 years old,Requires Oxygen Supplementation,24
+2021-09-25,40 - 60 years old,Requires Oxygen Supplementation,23
+2021-09-26,40 - 60 years old,Requires Oxygen Supplementation,22
+2021-09-27,40 - 60 years old,Requires Oxygen Supplementation,24
+2021-09-28,40 - 60 years old,Requires Oxygen Supplementation,26
+2021-09-29,40 - 60 years old,Requires Oxygen Supplementation,29
+2021-09-30,40 - 60 years old,Requires Oxygen Supplementation,30
+2021-10-01,40 - 60 years old,Requires Oxygen Supplementation,31
+2021-10-02,40 - 60 years old,Requires Oxygen Supplementation,32
+2021-10-03,40 - 60 years old,Requires Oxygen Supplementation,35
+2021-10-04,40 - 60 years old,Requires Oxygen Supplementation,33
+2021-10-05,40 - 60 years old,Requires Oxygen Supplementation,40
+2021-10-06,40 - 60 years old,Requires Oxygen Supplementation,44
+2021-10-07,40 - 60 years old,Requires Oxygen Supplementation,45
+2021-10-08,40 - 60 years old,Requires Oxygen Supplementation,44
+2021-10-09,40 - 60 years old,Requires Oxygen Supplementation,44
+2021-10-10,40 - 60 years old,Requires Oxygen Supplementation,45
+2021-10-11,40 - 60 years old,Requires Oxygen Supplementation,41
+2021-10-12,40 - 60 years old,Requires Oxygen Supplementation,42
+2021-10-13,40 - 60 years old,Requires Oxygen Supplementation,49
+2021-10-14,40 - 60 years old,Requires Oxygen Supplementation,53
+2021-10-15,40 - 60 years old,Requires Oxygen Supplementation,56
+2021-10-16,40 - 60 years old,Requires Oxygen Supplementation,54
+2021-10-17,40 - 60 years old,Requires Oxygen Supplementation,63
+2021-10-18,40 - 60 years old,Requires Oxygen Supplementation,65
+2021-10-19,40 - 60 years old,Requires Oxygen Supplementation,66
+2021-10-20,40 - 60 years old,Requires Oxygen Supplementation,66
+2021-09-23,40 - 60 years old,Hospitalised,169
+2021-09-24,40 - 60 years old,Hospitalised,158
+2021-09-25,40 - 60 years old,Hospitalised,179
+2021-09-26,40 - 60 years old,Hospitalised,167
+2021-09-27,40 - 60 years old,Hospitalised,183
+2021-09-28,40 - 60 years old,Hospitalised,189
+2021-09-29,40 - 60 years old,Hospitalised,194
+2021-09-30,40 - 60 years old,Hospitalised,192
+2021-10-01,40 - 60 years old,Hospitalised,188
+2021-10-02,40 - 60 years old,Hospitalised,181
+2021-10-03,40 - 60 years old,Hospitalised,181
+2021-10-04,40 - 60 years old,Hospitalised,182
+2021-10-05,40 - 60 years old,Hospitalised,214
+2021-10-06,40 - 60 years old,Hospitalised,218
+2021-10-07,40 - 60 years old,Hospitalised,206
+2021-10-08,40 - 60 years old,Hospitalised,205
+2021-10-09,40 - 60 years old,Hospitalised,204
+2021-10-10,40 - 60 years old,Hospitalised,203
+2021-10-11,40 - 60 years old,Hospitalised,229
+2021-10-12,40 - 60 years old,Hospitalised,216
+2021-10-13,40 - 60 years old,Hospitalised,185
+2021-10-14,40 - 60 years old,Hospitalised,195
+2021-10-15,40 - 60 years old,Hospitalised,221
+2021-10-16,40 - 60 years old,Hospitalised,192
+2021-10-17,40 - 60 years old,Hospitalised,234
+2021-10-18,40 - 60 years old,Hospitalised,254
+2021-10-19,40 - 60 years old,Hospitalised,259
+2021-10-20,40 - 60 years old,Hospitalised,249
+2021-10-13,19 - 39 years old,Deceased,1
+2021-10-14,19 - 39 years old,Deceased,1
+2021-09-23,19 - 39 years old,In Intensive Care Unit,1
+2021-10-01,19 - 39 years old,In Intensive Care Unit,1
+2021-10-07,19 - 39 years old,In Intensive Care Unit,1
+2021-10-08,19 - 39 years old,In Intensive Care Unit,1
+2021-10-09,19 - 39 years old,In Intensive Care Unit,1
+2021-10-10,19 - 39 years old,In Intensive Care Unit,1
+2021-10-11,19 - 39 years old,In Intensive Care Unit,1
+2021-10-17,19 - 39 years old,In Intensive Care Unit,1
+2021-10-18,19 - 39 years old,In Intensive Care Unit,1
+2021-10-19,19 - 39 years old,In Intensive Care Unit,2
+2021-10-20,19 - 39 years old,In Intensive Care Unit,2
+2021-09-23,19 - 39 years old,Requires Oxygen Supplementation,4
+2021-09-24,19 - 39 years old,Requires Oxygen Supplementation,7
+2021-09-25,19 - 39 years old,Requires Oxygen Supplementation,6
+2021-09-26,19 - 39 years old,Requires Oxygen Supplementation,6
+2021-09-27,19 - 39 years old,Requires Oxygen Supplementation,6
+2021-09-28,19 - 39 years old,Requires Oxygen Supplementation,6
+2021-09-29,19 - 39 years old,Requires Oxygen Supplementation,4
+2021-09-30,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-01,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-02,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-03,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-04,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-05,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-06,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-07,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-08,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-09,19 - 39 years old,Requires Oxygen Supplementation,4
+2021-10-10,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-11,19 - 39 years old,Requires Oxygen Supplementation,8
+2021-10-12,19 - 39 years old,Requires Oxygen Supplementation,7
+2021-10-13,19 - 39 years old,Requires Oxygen Supplementation,4
+2021-10-14,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-15,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-16,19 - 39 years old,Requires Oxygen Supplementation,1
+2021-10-17,19 - 39 years old,Requires Oxygen Supplementation,2
+2021-10-18,19 - 39 years old,Requires Oxygen Supplementation,3
+2021-10-19,19 - 39 years old,Requires Oxygen Supplementation,5
+2021-10-20,19 - 39 years old,Requires Oxygen Supplementation,4
+2021-09-23,19 - 39 years old,Hospitalised,95
+2021-09-24,19 - 39 years old,Hospitalised,89
+2021-09-25,19 - 39 years old,Hospitalised,97
+2021-09-26,19 - 39 years old,Hospitalised,113
+2021-09-27,19 - 39 years old,Hospitalised,119
+2021-09-28,19 - 39 years old,Hospitalised,119
+2021-09-29,19 - 39 years old,Hospitalised,114
+2021-09-30,19 - 39 years old,Hospitalised,117
+2021-10-01,19 - 39 years old,Hospitalised,108
+2021-10-02,19 - 39 years old,Hospitalised,106
+2021-10-03,19 - 39 years old,Hospitalised,101
+2021-10-04,19 - 39 years old,Hospitalised,100
+2021-10-05,19 - 39 years old,Hospitalised,126
+2021-10-06,19 - 39 years old,Hospitalised,114
+2021-10-07,19 - 39 years old,Hospitalised,107
+2021-10-08,19 - 39 years old,Hospitalised,112
+2021-10-09,19 - 39 years old,Hospitalised,102
+2021-10-10,19 - 39 years old,Hospitalised,118
+2021-10-11,19 - 39 years old,Hospitalised,122
+2021-10-12,19 - 39 years old,Hospitalised,98
+2021-10-13,19 - 39 years old,Hospitalised,91
+2021-10-14,19 - 39 years old,Hospitalised,90
+2021-10-15,19 - 39 years old,Hospitalised,91
+2021-10-16,19 - 39 years old,Hospitalised,85
+2021-10-17,19 - 39 years old,Hospitalised,116
+2021-10-18,19 - 39 years old,Hospitalised,121
+2021-10-19,19 - 39 years old,Hospitalised,115
+2021-10-20,19 - 39 years old,Hospitalised,116
+2021-09-23,12 - 18 years old,Hospitalised,12
+2021-09-24,12 - 18 years old,Hospitalised,10
+2021-09-25,12 - 18 years old,Hospitalised,9
+2021-09-26,12 - 18 years old,Hospitalised,9
+2021-09-27,12 - 18 years old,Hospitalised,6
+2021-09-28,12 - 18 years old,Hospitalised,6
+2021-09-29,12 - 18 years old,Hospitalised,6
+2021-09-30,12 - 18 years old,Hospitalised,6
+2021-10-01,12 - 18 years old,Hospitalised,9
+2021-10-02,12 - 18 years old,Hospitalised,10
+2021-10-03,12 - 18 years old,Hospitalised,10
+2021-10-04,12 - 18 years old,Hospitalised,11
+2021-10-05,12 - 18 years old,Hospitalised,11
+2021-10-06,12 - 18 years old,Hospitalised,11
+2021-10-07,12 - 18 years old,Hospitalised,10
+2021-10-08,12 - 18 years old,Hospitalised,10
+2021-10-09,12 - 18 years old,Hospitalised,10
+2021-10-10,12 - 18 years old,Hospitalised,14
+2021-10-11,12 - 18 years old,Hospitalised,17
+2021-10-12,12 - 18 years old,Hospitalised,20
+2021-10-13,12 - 18 years old,Hospitalised,12
+2021-10-14,12 - 18 years old,Hospitalised,11
+2021-10-15,12 - 18 years old,Hospitalised,9
+2021-10-16,12 - 18 years old,Hospitalised,11
+2021-10-17,12 - 18 years old,Hospitalised,7
+2021-10-18,12 - 18 years old,Hospitalised,7
+2021-10-19,12 - 18 years old,Hospitalised,5
+2021-10-20,12 - 18 years old,Hospitalised,7
+2021-09-23,0 - 11 years old,Hospitalised,80
+2021-09-24,0 - 11 years old,Hospitalised,77
+2021-09-25,0 - 11 years old,Hospitalised,85
+2021-09-26,0 - 11 years old,Hospitalised,88
+2021-09-27,0 - 11 years old,Hospitalised,97
+2021-09-28,0 - 11 years old,Hospitalised,88
+2021-09-29,0 - 11 years old,Hospitalised,85
+2021-09-30,0 - 11 years old,Hospitalised,83
+2021-10-01,0 - 11 years old,Hospitalised,76
+2021-10-02,0 - 11 years old,Hospitalised,90
+2021-10-03,0 - 11 years old,Hospitalised,88
+2021-10-04,0 - 11 years old,Hospitalised,99
+2021-10-05,0 - 11 years old,Hospitalised,111
+2021-10-06,0 - 11 years old,Hospitalised,105
+2021-10-07,0 - 11 years old,Hospitalised,96
+2021-10-08,0 - 11 years old,Hospitalised,95
+2021-10-09,0 - 11 years old,Hospitalised,103
+2021-10-10,0 - 11 years old,Hospitalised,96
+2021-10-11,0 - 11 years old,Hospitalised,113
+2021-10-12,0 - 11 years old,Hospitalised,96
+2021-10-13,0 - 11 years old,Hospitalised,69
+2021-10-14,0 - 11 years old,Hospitalised,66
+2021-10-15,0 - 11 years old,Hospitalised,61
+2021-10-16,0 - 11 years old,Hospitalised,57
+2021-10-17,0 - 11 years old,Hospitalised,69
+2021-10-18,0 - 11 years old,Hospitalised,76
+2021-10-19,0 - 11 years old,Hospitalised,82
+2021-10-20,0 - 11 years old,Hospitalised,62
