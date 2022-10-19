@@ -1,4 +1,4 @@
-# 1002 Team30 Project17 
+# Team Project 
 
 At the start of covid, people were unsure if they wanted to get a vaccine. To help reiterate the importance of getting the COVID-19 Vaccine, we wanted users to able to view the datasets in graphical form as graphs creates an easier illustration of the relationships in the data. This helps to present the numerous and complicated information of the covid cases from various reputable sources, with the goal in mind of reiterating the importance of the COVID-19 vaccination to those who have their doubts about getting one.
 
